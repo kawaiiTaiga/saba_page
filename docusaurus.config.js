@@ -41,13 +41,14 @@ const config = {
     [
       '@docusaurus/plugin-content-blog',
       {
-        id: 'experiments',
-        path: path.resolve(__dirname, 'experiments'),
-        routeBasePath: 'experiments',
-        blogTitle: 'EXPERIMENTS',
-        blogDescription: 'Real experiments, results, and organized findings.',
-        showReadingTime: true
+        id: 'stuffs',
+        path: path.resolve(__dirname, 'stuffs'),
+        routeBasePath: 'stuffs',
+        blogTitle: 'STUFFS',
+        blogDescription: 'Real stuffs',
+        showReadingTime: true,
         // no authors here either
+        blogListComponent: require.resolve('./src/components/ExperimentsGridPage.jsx'),
       }
     ]
   ],
@@ -59,7 +60,7 @@ const config = {
         title: 'PROJECT_SABA',
         items: [
           { to: '/docs', label: 'DOCUMENT', position: 'right' },
-          { to: '/experiments', label: 'EXPERIMENTS', position: 'right' },
+          { to: '/stuffs', label: 'STUFFS', position: 'right' },
           { to: '/blog', label: 'BULLSHIT', position: 'right' }
         ],
       },

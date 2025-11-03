@@ -238,7 +238,7 @@ pre::after {
   opacity: 1 !important;
 }
 /* 복사 버튼 */
-.clean-btn {
+.theme-code-block .clean-btn {
   border: 2px solid black !important;
   border-radius: 0 !important;
   background: white !important;
@@ -246,7 +246,7 @@ pre::after {
   font-weight: 700 !important;
 }
 
-.clean-btn:hover {
+.theme-code-block .clean-btn:hover {
   background: black !important;
   color: white !important;
 }

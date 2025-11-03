@@ -1,0 +1,6 @@
+---
+title: Nothing here yet...
+image: /img/avatar.png
+---
+
+because there is nothing here yet....

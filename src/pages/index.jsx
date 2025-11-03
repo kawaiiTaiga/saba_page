@@ -35,9 +35,9 @@ export default function Home() {
             <h3 className="font-bold text-lg">DOCUMENT</h3>
             <p className="mt-2 text-sm">Install, configure, and run SABA with your hardware.</p>
           </a>
-          <a href="/experiments" className="border-4 border-black p-5 hover:-translate-y-0.5 transition-transform">
-            <h3 className="font-bold text-lg">EXPERIMENTS</h3>
-            <p className="mt-2 text-sm">Real experiments, results, and organized findings.(In Preparation)</p>
+          <a href="/stuffs" className="border-4 border-black p-5 hover:-translate-y-0.5 transition-transform">
+            <h3 className="font-bold text-lg">STUFFS</h3>
+            <p className="mt-2 text-sm">What I made.</p>
           </a>
           <a href="/blog" className="border-4 border-black p-5 hover:-translate-y-0.5 transition-transform">
             <h3 className="font-bold text-lg">BULLSHIT</h3>
