@@ -3,14 +3,17 @@ title: Noon - mk.1
 image: /img/stuffs/cam_mk1.png
 hide_table_of_contents: true
 ---
-<a href="https://github.com/your-repo">
+<a href="https://github.com/kawaiiTaiga/project_SABA/tree/main/Device%20SDK/modules/esp32cam_simple-camera">
   <img src="/img/github.svg" width="32" alt="GitHub" />
 </a>
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+link : https://www.projectsaba.com/stuffs/noon_mk1
+
 # 🚀 My Projects
+
 
 ---
 
